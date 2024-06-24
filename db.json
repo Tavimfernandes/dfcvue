@@ -1,0 +1,29 @@
+{
+  "projects": [
+    {
+      "id": "0569",
+      "name": "teste",
+      "description": "123",
+      "category": "Condominial",
+      "responsibles": "eu",
+      "estimatedDeliveryDate": "2024-06-03",
+      "photos": [],
+      "steps": [],
+      "code": "DFCC06245718"
+    }
+  ],
+  "projectData": {
+    "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul"],
+    "completed": [40, 20, 12, 39, 10, 40, 39],
+    "inProgress": [30, 40, 25, 22, 25, 32, 28]
+  },
+  "notifications": [
+    "Projeto ABC concluído",
+    "Novo projeto XYZ iniciado",
+    "Prazo para o projeto DEF se aproximando"
+  ],
+  "events": [
+    { "start": "2023-07-01", "end": "2023-07-01", "title": "Reunião de Projeto" },
+    { "start": "2023-07-10", "end": "2023-07-10", "title": "Prazo Final Projeto A" }
+  ]
+}
